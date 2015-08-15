@@ -11,6 +11,7 @@ http://wiki.modtronix.com/doku.php?id=tutorials:coide-with-nz32-boards
 and
 http://wiki.modtronix.com/doku.php?id=tutorials:sw4stm32-with-nz32-boards
 
+
 After building the project, the *.elf, *.bin and *.hex file will be created in the debug folder.
 
 
