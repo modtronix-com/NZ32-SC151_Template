@@ -1,7 +1,8 @@
 ## Basic example project for NZ32-SC151
-This project contains a template for the NZ32-SC151 boards.
-For details on the NS32-SC151, see:  
+<img src="http://modtronix.com/img/prod/nz32/nz32-sc151/nz32-sc151_side.jpg" width="300" align="right">
+This project contains a template for the NZ32-SC151 boards. For details on the NS32-SC151, see:  
 http://wiki.modtronix.com/doku.php?id=products:nz-stm32:nz32-sc151
+
 
 
 ## Building project
