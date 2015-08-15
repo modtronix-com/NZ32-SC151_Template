@@ -7,9 +7,9 @@ http://wiki.modtronix.com/doku.php?id=products:nz-stm32:nz32-sc151
 ## Building project
 This project can be built with the free CoIDE or "System Workbench for STM32"(SW4STM32) IDEs. For details on
 these two IDEs, and instructions how to build and debug this project, see:
-http://wiki.modtronix.com/doku.php?id=tutorials:sw4stm32-with-nz32-boards
-and
 http://wiki.modtronix.com/doku.php?id=tutorials:coide-with-nz32-boards
+and
+http://wiki.modtronix.com/doku.php?id=tutorials:sw4stm32-with-nz32-boards
 
 After building the project, the *.elf, *.bin and *.hex file will be created in the debug folder.
 
