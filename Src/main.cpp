@@ -24,7 +24,7 @@ DigitalIn   myButton(USER_BUTTON);
 Serial      pc(USBTX, USBRX);   //Use default TX and RX. Available via USB Com port when using PGM-NUCLEO programmer
 
 int main() {
-    pc.printf("Hello World");   // Write to default UART. Available via USB Com port when using PGM-NUCLEO programmer
+    pc.printf("\r\nHello World");   // Write to default UART. Available via USB Com port when using PGM-NUCLEO programmer
 
     //Endless while loop
     while(1) {
